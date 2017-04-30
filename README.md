@@ -26,3 +26,8 @@ I am aware of reduxfx (https://github.com/netopyr/reduxfx), though this test fol
 3. Future Work
    
    Port further ELm examples to see if this pattern holds up or gets too unmanagable.
+
+4. P.S.
+
+   A little pro tip: https://blog.jooq.org/2014/12/08/dont-be-clever-the-double-curly-braces-anti-pattern/.
+   This hurt me personally because I loved doing double curly braces with JavaFx.
